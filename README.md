@@ -16,10 +16,6 @@ This project presents a comprehensive **Power BI Dashboard** analyzing Netflix�
 - ✅ Top Directors and Actors by Count
 - ✅ Filter Options: Country, Type, Year
 
-## 🎨 Screenshots
-[View Dashboard Overview](https://raw.githubusercontent.com/username/repo/main/path/to/image.png)
-
-
 ## 🚀 Key Insights
 - The **United States** and **India** contribute the most to Netflix’s content.
 - TV shows have seen a significant increase since 2015.
