@@ -17,7 +17,7 @@ This project presents a comprehensive **Power BI Dashboard** analyzing Netflix�
 - ✅ Filter Options: Country, Type, Year
 
 ## 🎨 Screenshots
-![Dashboard Overview](Images/dashboard_screenshot.png)
+![Dashboard Overview](Images/Screenshot 2025-06-16 104318.png)
 
 ## 🚀 Key Insights
 - The **United States** and **India** contribute the most to Netflix’s content.
